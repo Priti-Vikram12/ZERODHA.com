@@ -31,6 +31,7 @@ It is the Zerodha Landing Page Project! This project is a recreation of the land
 <h2>Overview</h2>
 
 ## Project link--[file:///C:/Users/nkhlk/Desktop/ZERODHA.com/index.html](https://github.com/Priti-Vikram12/ZERODHA.com.git)
+project link--["C:\Users\nkhlk\Desktop\ZERODHA.com"](https://github.com/Priti-Vikram12/ZERODHA.com.git)
 
 Project Author-- PREITI VIKRAM
   
